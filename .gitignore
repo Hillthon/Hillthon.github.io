@@ -2,8 +2,10 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .bundle/
-vendor/
+# Ignore installed Ruby dependencies, but keep theme assets in nested vendor directories.
+/vendor/
 .DS_Store
 .acad-template-source/
 acad-homepage-source.zip
 .codeartsdoer/
+commands_after_update_homepage.txt
