@@ -1,0 +1,9 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/
+.DS_Store
+.acad-template-source/
+acad-homepage-source.zip
+.codeartsdoer/
